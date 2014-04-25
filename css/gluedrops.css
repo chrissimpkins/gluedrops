@@ -1,0 +1,69 @@
+body {
+	background: #f2f3f1;
+	font-family: "Open Sans", "Helvetica Neue", helvetica, sans;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: "Open Sans", "Helvetica Neue", helvetica, sans;
+}
+
+.centered-text{
+	text-align:center !important;
+}
+
+.copyright{
+	color:#999;
+}
+
+.ltgrey-bg{
+	background-color:#eaeaea;
+}
+
+.ltpurple-bg{
+	background-color: #5a5773;
+}
+
+.opensans-light{
+	font-family: "Open Sans", "Helvetica Neue", helvetica, sans;
+	font-weight:300;
+}
+
+.opensans{
+	font-family: "Open Sans", "Helvetica Neue", helvetica, sans;
+	font-weight:400;
+}
+
+.opensans-bold{
+	font-family: "Open Sans", "Helvetica Neue", helvetica, sans;
+	font-weight:700;
+}
+
+.padded-bg{
+	padding: 30px 0 10px 0;
+}
+
+.repoline {
+	color:#FFF;
+	background-color:#5c5976;
+	background-image:url('../img/square_bg.png');
+	border-bottom:3px #e5e5e5 solid;
+}
+
+.repolinks{
+	margin:10px 0 10px 0;
+}
+
+.showcase {
+	color:#FFF !important;
+	background-color:#302f3b;
+	background-image:url('../img/congruent_purple.png');
+}
+
+a.whitelink{
+	color:#FFF;
+}
+
+a.whitelink:hover{
+	opacity:0.8;
+}
+
